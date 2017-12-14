@@ -9,11 +9,34 @@ body{
  max-width: 100%;
  max-height: 100%;
 }
-.mainTitle{
-    background-color: rgb(150, 204, 200);
-    color: blue;
+.pHeader{
+    background-color: rgb(19, 109, 245);
+    color: rgb(239, 239, 245);
 }
-h2{
-    float: right;
-    background-color:blue;
+.gameStats{
+   
+    background-color:rgb(79, 143, 240);
+    color:rgb(61, 42, 42);
 }
+.notAns{
+    color:rgb(236, 13, 13);
+    background-color:rgb(80, 18, 18);
+}
+.rtime{
+    background-color: rgb(54, 139, 165);
+    color:white;
+}
+.yesAns{
+    background-color: rgb(33, 247, 33);
+    color: blueviolet;
+}
+.quizDetail{
+    background-color: rgb(249, 250, 247);
+    color:rgb(46, 36, 36);
+    max-height: 100%;
+}
+
+
+/*   for the question options block */
+
+
