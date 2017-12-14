@@ -9,7 +9,11 @@ body{
  max-width: 100%;
  max-height: 100%;
 }
-.jumbotron{
-    background-color: rgb(17, 228, 217);
+.mainTitle{
+    background-color: rgb(150, 204, 200);
     color: blue;
+}
+h2{
+    float: right;
+    background-color:blue;
 }
